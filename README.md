@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **PHP, Laravel & CodeIgniter projects**  
 - 🌱 I’m learning **GCP, DevOps & FHIR**  
 - 💬 Ask me about **PHP, Laravel, CodeIgniter, MySQL, APIs & Web Development**  
-- 📫 Reach me at: **[Email](mailto:youremail@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)**  
+- 📫 Reach me at: **[Email](mailto:sachin133hm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sachinthasuranjan/)**  
 
 ---
 
