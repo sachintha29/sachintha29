@@ -7,9 +7,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachintha29&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachintha29&theme=radical)  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sachintha29&theme=darkhub)  
 
 
 
