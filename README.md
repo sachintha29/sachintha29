@@ -27,11 +27,17 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
+
+### 🏥 Healthcare Integration & Interoperability:
+![HL7](https://img.shields.io/badge/HL7-0A66C2?style=for-the-badge&logo=hl7&logoColor=white)
+![FHIR](https://img.shields.io/badge/FHIR-009688?style=for-the-badge&logo=hl7&logoColor=white)
+![Mirth Connect](https://img.shields.io/badge/Mirth%20Connect-4A4A4A?style=for-the-badge&logo=nextcloud&logoColor=white)
+
 
 ### 📊 GitHub Stats:
 <div align="center">
